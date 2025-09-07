@@ -1,0 +1,28 @@
+=== COVID-19 TREND ANALYSIS REPORT ===
+
+Analysis Period: 2020-01-22 00:00:00 to 2020-03-14 00:00:00
+Total Data Points: 53
+
+--- NEW CASES ANALYSIS ---
+Overall Trend Slope: 76.52 cases/day
+Trend R-squared: 0.130
+Statistical Significance (p-value): 0.008
+Surge Threshold (90th percentile): 4950 cases
+Number of Surge Periods: 3
+  Surge 1: 2020-02-13 00:00:00 to 2020-02-14 00:00:00
+  Surge 2: 2020-03-10 00:00:00 to 2020-03-11 00:00:00
+  Surge 3: 2020-03-13 00:00:00 to 2020-03-14 00:00:00
+Anomalous Days: 6 (11.3%)
+
+--- NEW DEATHS ANALYSIS ---
+Overall Trend Slope: 4.38 deaths/day
+Trend R-squared: 0.333
+
+--- MOVING AVERAGES INSIGHTS ---
+Latest 7-day MA (Cases): 7180.4
+Latest 14-day MA (Cases): 5006.1
+Short-term trend is ABOVE long-term trend (potential acceleration)
+
+--- SIGNIFICANT CHANGEPOINTS ---
+Number of Changepoints: 1
+  Changepoint 1: 2020-02-12 00:00:00
